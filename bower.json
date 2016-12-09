@@ -1,0 +1,20 @@
+{
+  "name": "miles-mods-frontend",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Miles Oberstadt <miles@oberstadt.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/milesoberstadt/miles-mods-frontend",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7"
+  }
+}
