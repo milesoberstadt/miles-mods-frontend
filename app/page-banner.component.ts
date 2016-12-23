@@ -14,5 +14,5 @@ import { Component } from '@angular/core';
 })
 
 export class PageBanner{
-
+    title = "Welcome to Miles-Mods.com";
 }
