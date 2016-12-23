@@ -5,7 +5,7 @@ import { Component } from '@angular/core';
     <navbar></navbar>
     <page-banner></page-banner>
     <div class="container">
-      <h1>App is running</h1>
+      <blog-list></blog-list>
     </div>
   `
 })

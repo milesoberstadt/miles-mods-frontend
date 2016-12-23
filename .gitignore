@@ -41,3 +41,6 @@ dist
 
 # Ignore bower stuff
 bower_components
+
+# Ignore vscode 
+.vscode
